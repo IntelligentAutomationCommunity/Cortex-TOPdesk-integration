@@ -1,3 +1,7 @@
+[![](https://img.shields.io/badge/Cortex-Integrations-ff6600)](https://www.cortex-ia.com/cortex-integrations/) 
+[![](https://img.shields.io/badge/LinkedIn-Cortex-blue.svg?logo=linkedin)](https://www.linkedin.com/company/cortex-intelligent-automation-software/)
+[![](https://img.shields.io/badge/Blog-Cortex-a0c326)](https://www.cortex-ia.com/latest-news-at-cortex/)
+
 # Cortex-TOPdesk-integration
 A set of subtasks to integrate with TOPdesk.
 
